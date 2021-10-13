@@ -1,0 +1,49 @@
+{
+  "intvalue": 1,
+  "intfromstring": "1",
+  "floatvalue": "1.0",
+  "doublevalue": "1.0",
+  "boolvalue": true,
+  "boolvaluefromstring": "true",
+  "stringvalue": "foobar",
+  "enumValue": "yes",
+  "enumValueWithNoAttribute": "Ok",
+  "datetimeoffset": "2016-04-01T11:09:03.000Z",
+  "datetime": "2016-04-01T11:09:03.000Z",
+  "dateonly": "2016-04-01",
+  "dateotherformat": "10/12/2019 1:25:45 PM",
+  "guidvalue": "3c3373d1-90a2-411c-8a2f-823d1535f614",
+  "decimalvalue": "123.123",
+  "attributes": {
+    "displayname": "myfile",
+    "metadata": {
+      "filetype": "jpg"
+    }
+  },
+  "data": {
+    "versions": [
+      {
+        "type": "newfile",
+        "number": 1
+      },
+      {
+        "type": "updatedfile",
+        "number": 2
+      }
+    ],
+    "values": [ 1, 2, 3 ],
+    "names": [ "john", "maria" ],
+    "filetypes": [ "newfile", "updatedfile" ],
+    "guids": [
+      "c7a9d299-417c-4646-b23f-0b528adb95e4",
+      "3fe55490-e5ac-4a7a-91c3-c9a3de02c73c",
+      "79cf9b94-855d-449f-ad5a-2329badc026a"
+    ]
+  },
+  "wrongdata": {
+    "undefinedint": "undefined",
+    "nullint": null,
+    "nullobject": null
+  },
+  "valueobject": "johndoe"
+}

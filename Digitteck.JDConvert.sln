@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digitteck.JDConverter", "Digitteck.JDConvert\Digitteck.JDConverter.csproj", "{44A6ED24-AA17-48C4-B1CE-F9E0443D03FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digitteck.JDConvert.Tests", "Digitteck.JDConvert.Tests\Digitteck.JDConvert.Tests.csproj", "{EEF707DA-6F0D-49F7-A908-7340C9E1A744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A6ED24-AA17-48C4-B1CE-F9E0443D03FC}.Debug|x64.ActiveCfg = Debug|x64
+		{44A6ED24-AA17-48C4-B1CE-F9E0443D03FC}.Debug|x64.Build.0 = Debug|x64
+		{44A6ED24-AA17-48C4-B1CE-F9E0443D03FC}.Release|x64.ActiveCfg = Release|x64
+		{44A6ED24-AA17-48C4-B1CE-F9E0443D03FC}.Release|x64.Build.0 = Release|x64
+		{EEF707DA-6F0D-49F7-A908-7340C9E1A744}.Debug|x64.ActiveCfg = Debug|x64
+		{EEF707DA-6F0D-49F7-A908-7340C9E1A744}.Debug|x64.Build.0 = Debug|x64
+		{EEF707DA-6F0D-49F7-A908-7340C9E1A744}.Release|x64.ActiveCfg = Release|x64
+		{EEF707DA-6F0D-49F7-A908-7340C9E1A744}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F9D2E5-80B4-4630-BC9C-778F1781EB76}
+	EndGlobalSection
+EndGlobal
